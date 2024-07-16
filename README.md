@@ -48,3 +48,5 @@ Caracterizam as maneiras pelas quais classes ou objetos interagem e distribuem r
 
 - [Design Patterns in Object Oriented Programming - Christopher Okhravi @ Youtube](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 - [Design patterns implemented in Java - Iluwatar @ GitHub](https://github.com/iluwatar/java-design-patterns)
+
+- Fork feito a partir do: https://github.com/gdfreitas
