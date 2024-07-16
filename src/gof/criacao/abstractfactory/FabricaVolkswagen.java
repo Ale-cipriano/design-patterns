@@ -4,7 +4,7 @@ import gof.criacao.abstractfactory.carros.Golf;
 import gof.criacao.abstractfactory.carros.Jetta;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
 public class FabricaVolkswagen implements FabricaDeCarro {

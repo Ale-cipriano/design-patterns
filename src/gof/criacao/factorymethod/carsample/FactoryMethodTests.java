@@ -1,7 +1,7 @@
 package gof.criacao.factorymethod.carsample;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class FactoryMethodTests {
 

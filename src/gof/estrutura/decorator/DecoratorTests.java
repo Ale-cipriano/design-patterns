@@ -1,7 +1,7 @@
 package gof.estrutura.decorator;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class DecoratorTests {
 

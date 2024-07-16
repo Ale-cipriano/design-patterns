@@ -1,7 +1,7 @@
 package gof.comportamento.interpreter;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class Contexto {
 

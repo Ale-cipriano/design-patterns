@@ -3,7 +3,7 @@ package gof.comportamento.iterator;
 import java.util.ArrayList;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public abstract class AgregadoCanais {
 

@@ -4,7 +4,7 @@ import gof.criacao.abstractfactory.carros.Civic;
 import gof.criacao.abstractfactory.carros.Fit;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
 public class FabricaHonda implements FabricaDeCarro {

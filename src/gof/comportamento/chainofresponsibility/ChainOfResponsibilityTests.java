@@ -1,10 +1,10 @@
 package gof.comportamento.chainofresponsibility;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
-public class ChainOfResponsibilityTests {
+class ChainOfResponsibilityTests {
 
     public static void main(String[] args) {
 

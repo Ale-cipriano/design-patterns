@@ -1,7 +1,7 @@
 package gof.estrutura.bridge;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class JanelaDialogo extends JanelaAbstrata {
 

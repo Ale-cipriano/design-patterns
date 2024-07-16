@@ -1,7 +1,7 @@
 package gof.comportamento.iterator;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class IteratorTests {
 

@@ -1,7 +1,7 @@
 package gof.comportamento.memento;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class Texto {
 

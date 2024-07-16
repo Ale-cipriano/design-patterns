@@ -1,8 +1,6 @@
 package gof.estrutura.facade;
 
-/**
- * @author gabriel.freitas
- */
+
 public class FacadeTests {
 
     public static void main(String[] args) {

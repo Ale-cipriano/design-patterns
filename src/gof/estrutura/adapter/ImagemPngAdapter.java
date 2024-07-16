@@ -1,7 +1,7 @@
 package gof.estrutura.adapter;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class ImagemPngAdapter extends ImagemPng implements ImagemTarget {
 

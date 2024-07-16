@@ -3,7 +3,7 @@ package gof.criacao.abstractfactory.carros;
 import gof.criacao.abstractfactory.CarroSedan;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
 public class Civic implements CarroSedan {

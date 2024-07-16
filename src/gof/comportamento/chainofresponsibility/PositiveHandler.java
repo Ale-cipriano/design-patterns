@@ -1,7 +1,7 @@
 package gof.comportamento.chainofresponsibility;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
 public class PositiveHandler extends Handler {

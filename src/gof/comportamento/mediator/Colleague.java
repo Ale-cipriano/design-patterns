@@ -1,7 +1,7 @@
 package gof.comportamento.mediator;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public abstract class Colleague {
 

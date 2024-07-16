@@ -3,7 +3,7 @@ package gof.criacao.prototype;
 import java.math.BigDecimal;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class PrototypeTests {
 

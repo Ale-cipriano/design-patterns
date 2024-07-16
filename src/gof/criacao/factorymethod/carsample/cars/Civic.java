@@ -3,7 +3,7 @@ package gof.criacao.factorymethod.carsample.cars;
 import gof.criacao.factorymethod.carsample.Car;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class Civic implements Car {
 

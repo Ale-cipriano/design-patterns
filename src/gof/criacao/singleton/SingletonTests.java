@@ -1,7 +1,7 @@
 package gof.criacao.singleton;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
 public class SingletonTests {

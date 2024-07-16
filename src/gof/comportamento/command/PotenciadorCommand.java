@@ -1,7 +1,7 @@
 package gof.comportamento.command;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
 public class PotenciadorCommand implements Command {

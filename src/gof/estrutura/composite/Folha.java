@@ -1,7 +1,7 @@
 package gof.estrutura.composite;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class Folha extends Componente {
 

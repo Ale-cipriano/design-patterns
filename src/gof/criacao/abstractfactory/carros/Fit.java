@@ -3,7 +3,7 @@ package gof.criacao.abstractfactory.carros;
 import gof.criacao.abstractfactory.CarroHatch;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
 public class Fit implements CarroHatch {

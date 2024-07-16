@@ -1,7 +1,7 @@
 package gof.estrutura.flyweight;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class Ponto {
 

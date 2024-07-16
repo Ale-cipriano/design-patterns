@@ -1,7 +1,7 @@
 package gof.comportamento.visitor;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class ArvoreBinaria {
 

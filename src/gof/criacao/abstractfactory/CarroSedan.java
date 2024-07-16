@@ -1,7 +1,7 @@
 package gof.criacao.abstractfactory;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
 public interface CarroSedan {

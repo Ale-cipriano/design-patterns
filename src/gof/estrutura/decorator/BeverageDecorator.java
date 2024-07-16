@@ -3,7 +3,7 @@ package gof.estrutura.decorator;
 import java.math.BigDecimal;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class BeverageDecorator extends Beverage {
 

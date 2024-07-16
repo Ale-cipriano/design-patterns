@@ -1,7 +1,7 @@
 package gof.estrutura.adapter;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 @SuppressWarnings("all")
 public class AdapterTests {

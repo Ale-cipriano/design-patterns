@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author gabriel.freitas
+ * @author alessandro.cipriano
  */
 public class FlyweightFactory {
 
